@@ -28,5 +28,13 @@ Welcome to my Active Directory Home Lab. It was built in a Windows VM Environmen
 ![Step 3](Created USer SC 3.png)
 ![Step 4](Created USer SC 4.png)
 
-### Unlocking Accounts
-![Step 1] (Locking 
+### Disable Accounts
+![Step 1](Locking and Unlocking Accounts SC 2.png)
+![Step 2](Locking and Unlocking Accounts SC 4.png)
+
+### Enable Accounts
+![Step 1](Locking and Unlocking Accounts SC 5.png)
+![Step 2](Locking and Unlocking Accounts SC 3.png)
+
+
+
