@@ -36,5 +36,15 @@ Welcome to my Active Directory Home Lab. It was built in a Windows VM Environmen
 ![Step 1](enable-account-1.png)
 ![Step 2](enable-account-2.png)
 
+### Reset Password for an Account
+![Step 1](reset-password-1.png)
+![Step 2](reset-password-2.png)
+![Step 3](reset-password-3.png)
+
+### Adding a User to a Group
+![Step 1](add-user-to-group-1.png)
+![Step 2](add-user-to-group-2.png)
+![Step 3](add-user-to-group-3.png)
+
 
 
