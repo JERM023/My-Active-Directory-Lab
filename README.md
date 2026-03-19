@@ -22,19 +22,15 @@ Welcome to my Active Directory Home Lab. It was built in a Windows VM Environmen
 - Basic system administration
 
 ## Screenshots
+
 ### Creating Users
-![Step 1](Created USer SC 1.png)
-![Step 2](Created USer SC 2.png)
-![Step 3](Created USer SC 3.png)
-![Step 4](Created USer SC 4.png)
+![Step 1](
 
 ### Disable Accounts
-![Step 1](Locking and Unlocking Accounts SC 2.png)
-![Step 2](Locking and Unlocking Accounts SC 4.png)
+![Step 1](
 
 ### Enable Accounts
-![Step 1](Locking and Unlocking Accounts SC 5.png)
-![Step 2](Locking and Unlocking Accounts SC 3.png)
+![Step 1](
 
 
 
